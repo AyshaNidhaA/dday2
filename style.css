@@ -1,0 +1,70 @@
+.mydrp{
+    list-style-type: none;
+}
+form {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #bfafd075;
+    border-radius: 5px;
+  }
+  h1{
+   padding-top: 30px;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input,
+  textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  input[type="submit"] {
+    background-color: #c5921b;
+    color: rgb(23, 4, 4);
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #693909;
+  }
+  
+  input[type="submit"]:focus {
+    outline: none;
+  }
+  
+  textarea {
+    resize: vertical;
+  } 
+
+  .fhf{
+    margin: 30px auto;
+    }
+
+    p{
+      font-size: larger;
+    }
+    .hhh{
+      font-size: larger;
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .backgroundcolor{
+background-color: #bfafd075;
+    }
+    .accordionFlushExample{
+      background-color: #bfafd075
+
+    }
+    .margin{
+
+    }
